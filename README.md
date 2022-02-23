@@ -21,6 +21,6 @@ yarn  start ...
 > 
 🔐 Generate a deploy account with `yarn generate`
 
-![nft1] https://github.com/scaffold-eth/scaffold-eth/tree/simple-nft-example
+![nft1](https://github.com/NPavl/GET-ETHER-BALANCE-USING-NETHEREUM/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BAsdfs.PNG)
 
  - 🎟  [Create your first NFT](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example)
