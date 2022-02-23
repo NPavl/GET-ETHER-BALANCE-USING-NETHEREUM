@@ -1,6 +1,6 @@
-# GET-ETHER-BALANCE-USING-NETHEREUM
+### GET-ETHER-BALANCE-USING-NETHEREUM
 
-## Test Readme.md файл  
+## Test Readme.md  
 
 # Heading 
 ## Heading 2
